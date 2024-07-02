@@ -1,0 +1,5 @@
+LIBRARY        tinylz4
+EXPORTS
+	LZ4_compress_default
+	LZ4_decompress_safe
+    
